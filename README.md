@@ -190,6 +190,13 @@ trump-skill/
 
 ---
 
+## 添加新语言
+
+已日语为案例
+
+1. 新建 references/ja/style-rules.md，写日语版的风格规则
+2. 在 references/routing.md 的路由表里加一行 日文 → references/ja/style-rules.md
+
 ## License
 
 MIT
